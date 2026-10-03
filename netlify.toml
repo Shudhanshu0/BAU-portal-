@@ -1,0 +1,3 @@
+[build]
+  # The portal's static files (index.html, style.css, script.js, links.json) live in this folder
+  publish = "bau-team-portal"
