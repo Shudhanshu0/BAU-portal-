@@ -1,0 +1,110 @@
+{
+  "branding": {
+    "title": "CAS OPERATIONS",
+    "subtitle": "Daily operations, one click away",
+    "logo": "assets/company-logo.svg"
+  },
+  "lastUpdated": "02 Oct 2026",
+  "tools": [
+    {
+      "id": "monitor-1",
+      "name": "CAS PORTAL",
+      "description": "Citi Automation Service Portal for everyday work",
+      "url": "https://example.com/monitoring",
+      "category": "Work",
+      "icon": "fa-chart-line"
+    },
+    {
+      "id": "monitor-2",
+      "name": "Log Analytics",
+      "description": "Search application and server logs",
+      "url": "https://example.com/logs",
+      "category": "Monitoring",
+      "icon": "fa-magnifying-glass-chart"
+    },
+    {
+      "id": "vmware-1",
+      "name": "vCenter",
+      "description": "Manage virtual machines and clusters",
+      "url": "https://example.com/vcenter",
+      "category": "VMware",
+      "icon": "fa-server"
+    },
+    {
+      "id": "vmware-2",
+      "name": "NSX Manager",
+      "description": "Manage virtual networking and security",
+      "url": "https://example.com/nsx",
+      "category": "VMware",
+      "icon": "fa-network-wired"
+    },
+    {
+      "id": "cloud-1",
+      "name": "Azure Portal",
+      "description": "Access cloud resources and services",
+      "url": "https://portal.azure.com",
+      "category": "Cloud",
+      "icon": "fa-cloud"
+    },
+    {
+      "id": "cloud-2",
+      "name": "AWS Console",
+      "description": "Access AWS services and resources",
+      "url": "https://console.aws.amazon.com",
+      "category": "Cloud",
+      "icon": "fa-cloud-arrow-up"
+    },
+    {
+      "id": "security-1",
+      "name": "Security Dashboard",
+      "description": "Review security alerts and compliance",
+      "url": "https://example.com/security",
+      "category": "Security",
+      "icon": "fa-shield-halved"
+    },
+    {
+      "id": "security-2",
+      "name": "Password Vault",
+      "description": "Open the approved credential vault",
+      "url": "https://example.com/vault",
+      "category": "Security",
+      "icon": "fa-key"
+    },
+    {
+      "id": "docs-1",
+      "name": "Knowledge Base",
+      "description": "View SOPs and troubleshooting guides",
+      "url": "https://example.com/kb",
+      "category": "Documentation",
+      "icon": "fa-book-open"
+    },
+    {
+      "id": "docs-2",
+      "name": "Process Documents",
+      "description": "Access BAU process documentation",
+      "url": "https://example.com/process-docs",
+      "category": "Documentation",
+      "icon": "fa-file-lines"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Team Lead",
+      "role": "Operations Lead",
+      "email": "teamlead@example.com",
+      "teamsUrl": "https://teams.microsoft.com"
+    },
+    {
+      "name": "BAU Support",
+      "role": "Shared Support Contact",
+      "email": "support@example.com",
+      "teamsUrl": "https://teams.microsoft.com"
+    },
+    {
+      "name": "Major Incident Manager",
+      "role": "Incident Escalation",
+      "email": "incident.manager@example.com",
+      "teamsUrl": "https://teams.microsoft.com"
+    }
+  ]
+}
